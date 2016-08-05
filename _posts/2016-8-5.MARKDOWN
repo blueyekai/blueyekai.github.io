@@ -3,7 +3,6 @@ layout: post
 title: test post 1
 category: blog posts
 ---
-<!DOCTYPE HTML>
 <html>
   <head>
   </head>
