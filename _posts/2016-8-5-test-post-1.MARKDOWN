@@ -2,6 +2,7 @@
 layout: post
 title: test post 1
 category: blog posts
+introduction: Lorem Ipsum
 ---
 
   <h1>Test</h1>
